@@ -1,1 +1,10 @@
-
+.parent{
+    height: 50vh;
+    width: 50vw;
+    background-color: #1b263b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
